@@ -1,2 +1,2 @@
 # Show-Local-Weather
-App that shows the local weather of the user
+A Javascript Weather App that shows the users local weather.
